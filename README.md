@@ -25,21 +25,21 @@ As regras e condutas esperadas aplicam-se:
 ### Quando Chegar da Escola
 
 1. Pedro, **sem bricadeira**, deverá fazer as seguintes tarefas:
-  1. Limpar a mesa para almoçar;
-  2. Colocar os **jogos americanos** na mesa; 
-  3. Colocar a comida dos irmãos no prato (**um de cada vez!!!**) e esquentar no microondas por 30 segundo ou 1 minuto;
-  4. Colocar o prato com a comida na mesa com talher e copo de suco (se tiver)
+  - Limpar a mesa para almoçar;
+  - Colocar os **jogos americanos** na mesa; 
+  - Colocar a comida dos irmãos no prato (**um de cada vez!!!**) e esquentar no microondas por 30 segundo ou 1 minuto;
+  - Colocar o prato com a comida na mesa com talher e copo de suco (se tiver)
 2. Gabriel e Mateus, assim que chegarem:
-  1. Vão tomar banho, um em cada banheiro (um dia em um banheiro e outro dia noutro banheiro);
+  - Vão tomar banho, um em cada banheiro (um dia em um banheiro e outro dia noutro banheiro);
 3. Após Pedro colocar a comida e Gabriel e Mateus tomarem banho:
-  1. Pedro, Gabriel e Mateus devem almoçar juntos NA MESA da sala !!! (SEM PRESSA!!! NINGUÉM JOGA OU ASSISTE !!!)
-  2. Após almoçarem, Pedro, Gabriel e Mateus devem:
-    1. Levar o prato para a cozinha;
-    2. Retirar a tampa do lixo;
-    3. Jogar o resto de comida fora, **COM CUIDADO PARA NÃO DERRAMAR E MELAR A PIA !!!**
-    4. Enxaguar o prato;
-    5. Colocar o prato na pia, **COM O TALHER FORA DO PRATO !!!**
-    6. Tirar cada um o seu jogo americano e limpar o que sujou na mesa.
+  - Pedro, Gabriel e Mateus devem almoçar juntos NA MESA da sala !!! (SEM PRESSA!!! NINGUÉM JOGA OU ASSISTE !!!)
+  - Após almoçarem, Pedro, Gabriel e Mateus devem:
+    - Levar o prato para a cozinha;
+    - Retirar a tampa do lixo;
+    - Jogar o resto de comida fora, **COM CUIDADO PARA NÃO DERRAMAR E MELAR A PIA !!!**
+    - Enxaguar o prato;
+    - Colocar o prato na pia, **COM O TALHER FORA DO PRATO !!!**
+    - Tirar cada um o seu jogo americano e limpar o que sujou na mesa.
 
 ### Após Almocarem, Pedro, Gabriel e Mateus devem
 
@@ -79,15 +79,15 @@ Do irmão MAIS NOVO para o MAIS VELHO:
 
 1. O PRÓXIMO IRMÃO MAIS VELHO deve trazer a LISTA para o IRMÃO MAIS NOVO ASSINAR;
 2. O IRMÃO MAIS NOVO deve assinar a LISTA e MARCAR a HORA DE INÍCIO que começou a jogar;
-  1. CASO o PRÓXIMO IRMÃO MAIS VELHO NÃO TRAGA A LISTA, a hora de INÍCIO deverá ser marcada pela hora que se percebeu a falta da assinatura.
+  - CASO o PRÓXIMO IRMÃO MAIS VELHO NÃO TRAGA A LISTA, a hora de INÍCIO deverá ser marcada pela hora que se percebeu a falta da assinatura.
 3. CADA IRMÃO deve jogar por 1 hora.
 4. A tolerância, após 1 hora é de 10 minutos
-  1. Caso não saia nesses dez minutos:
-    1. O PRÓXIMO IRMÃO deverá LIGAR PARA O PAPAI para registrar a hora e anotar na **HORA DE SAÍDA**: " NÃO SAIU !"
-    2. O IRMÃO QUE NÃO SAIR NA HORA, NÃO IMPORTA O MOTIVO FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!) 
+  - Caso não saia nesses **10 (dez) minutos**:
+    - O PRÓXIMO IRMÃO deverá LIGAR PARA O PAPAI para registrar a hora e anotar na **HORA DE SAÍDA**: " NÃO SAIU !"
+    - O IRMÃO QUE NÃO SAIR NA HORA, NÃO IMPORTA O MOTIVO FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!) 
 5. Se um IRMÃO NÃO QUISER JOGAR (para assistir ou brincar), deve-se perguntar ao PRÓXIMO IRMÃO se ele quer jogar, e assim sucessivamente;
-  1. Caso a regra acima NÃO SEJA RESPEITADA, QUE NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
-  2. Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a jogar;
+  - Caso a regra acima NÃO SEJA RESPEITADA, QUE NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
+  - Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a jogar;
 
 - Observação 1:
   - NÃO IMPORTA A HORA OU QUANTO TEMPO JOGOU, O X BOX SERÁ DESLIGADO ÀS 21:30;
