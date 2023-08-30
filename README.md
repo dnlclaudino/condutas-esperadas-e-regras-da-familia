@@ -8,16 +8,6 @@ As regras e condutas esperadas aplicam-se:
 - Ao notebook e um celular de Daniel Alcides
 - Ao notebook da mamãe que é utilizado exclusivamente para fazer as tarefas e trabalhos da escola.
 
-### Regras para o X BOX One S
-
-### Regras para a TV do Quadro ( Pedro, Gabriel e Mateus )
-
-### Regras para a TV do Quadro ( Papai e Mamãe )
-
-### Regras para o Notebook e Celular de Daniel Alcides
-
-### Regras para o Notebook da Mamãe
-
 ## Das Condutas Esperadas
 
 ### Quando acordar (06:00)
@@ -67,6 +57,10 @@ SEMPRE na **ORDEM é do irmão MAIS NOVO para o MAIS VELHO**, o irmão deve esco
 
 #### Se escolher JOGAR
 
+## Regras
+
+### Regras para o X BOX One S
+
 Do irmão MAIS NOVO para o MAIS VELHO:
 
 1. O PRÓXIMO IRMÃO MAIS VELHO deve trazer a LISTA para o IRMÃO MAIS NOVO ASSINAR;
@@ -82,3 +76,28 @@ Do irmão MAIS NOVO para o MAIS VELHO:
   2. Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a jogar;
 
 - Observação 1: NÃO IMPORTA A HORA OU QUANTO TEMPO JOGOU, O X BOX SERÁ DESLIGADO ÀS 21:30, NEM UM MINUTO A MAIS. Caso essa regra NÃO SEJA RESPEITADA, QUE NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
+
+### Regras Assistir a TV do Quadro ( Pedro, Gabriel e Mateus )
+
+- Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a jogar;
+- O tempo de cada IRMÃO ASSISTIR é de 1 hora com tolerância de 10 minutos;
+- O IRMÃO QUE NÃO SAIR NA HORA, NÃO IMPORTA O MOTIVO FICARÁ O RESTO DA SEMANA ASSISTIR !!! (ATÉ 23:59:59 do DOMINGO !!)
+
+
+### Regras Assistir a TV do Quadro ( Papai e Mamãe )
+
+- Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a assistir;
+- Quando PAPAI ou MAMÃE sair(em), quem tem prioridade de ficar no quarto assistindo é MATEUS, **ENQUANTO PAPAI E MAMÃE ESTIVEREM FORA**, a não ser que ele queira jogar e DIGA ISSO CLARA E EXPLICITAMENTE.
+- QUANDO PEDRO OU GABRIEL estiverem assistindo, o tempo de cada um será de 1 hora com tolerância de 10 minutos;
+- O IRMÃO QUE NÃO SAIR NA HORA, NÃO IMPORTA O MOTIVO FICARÁ O RESTO DA SEMANA ASSISTIR !!! (ATÉ 23:59:59 do DOMINGO !!)
+
+### Regras para Usar o Notebook e Celular de Daniel Alcides
+
+- Só quem usa esses equipamento é Daniel Alcides;
+- Não há limite de tempo para o uso desses equipamentos; 
+
+### Regras para Usar o Notebook da Mamãe
+
+- Pedro, Gabriel e Mateus SÓ PODEM USAR esse notebook para fazerem **dever de casa**, **tarefa** ou **trabalho** escolar;
+
+
