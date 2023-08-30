@@ -56,6 +56,29 @@ As regras e condutas esperadas aplicam-se:
 Fazer a terefa e/ou trabalho escolhar.
 
 - Observação 1: Pedro: deve limpar a mesa para fazer a tarefa JUNTO COM GABRIEL E MATEUS.
-- Observação 2: Caso precise usar o notebook da mamãe para fazer um trabalho ou tarefa, a **ORDEM é do menor irmão MENOR para o MAIOR**.
+- Observação 2: Caso precise usar o notebook da mamãe para fazer um trabalho ou tarefa, a **ORDEM é do irmão MAIS NOVO para o MAIS VELHO**.
 - Observação 3: Qualquer dúvida para fazer o **dever de casa**, **tarefa** ou **trabalho** escolar, Pedro, Gabriel e Mateus **DEVEM LIGAR PARA O PAPAI**.
-- Observação 4: 
+- Observação 4: Caso Pedro, Gabriel e Mateus terminem o **dever de casa**, **tarefa** ou **trabalho** ANTES DE 15:00, DEVEM ESTUDAR o que foi dado em sala de aula até as 15:00
+- Observação 5: Aquele que fizer trabalhos **mau-feitos** ou **imcompletos**,no dia seguinte ,não PODERÁ JOGAR ou ASSISTIR, **EM CASO DE DÚVIDAS**, **DEVEM LIGAR PARA O PAPAI**.
+
+### Após Terminarem o Dever de Casa, Tarefa ou Trabalho
+
+SEMPRE na **ORDEM é do irmão MAIS NOVO para o MAIS VELHO**, o irmão deve escolher se vai jogar ou assistir
+
+#### Se escolher JOGAR
+
+Do irmão MAIS NOVO para o MAIS VELHO:
+
+1. O PRÓXIMO IRMÃO MAIS VELHO deve trazer a LISTA para o IRMÃO MAIS NOVO ASSINAR;
+2. O IRMÃO MAIS NOVO deve assinar a LISTA e MARCAR a HORA DE INÍCIO que começou a jogar;
+  1. CASO o PRÓXIMO IRMÃO MAIS VELHO NÃO TRAGA A LISTA, a hora de INÍCIO deverá ser marcada pela hora que se percebeu a falta da assinatura.
+3. CADA IRMÃO deve jogar por 1 hora.
+4. A tolerância, após 1 hora é de 10 minutos
+  1. Caso não saia nesses dez minutos:
+    1. O PRÓXIMO IRMÃO deverá LIGAR PARA O PAPAI para registrar a hora e anotar na **HORA DE SAÍDA**: " NÃO SAIU !"
+    2. O IRMÃO QUE NÃO SAIR NA HORA, NÃO IMPORTA O MOTIVO FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!) 
+5. Se um IRMÃO NÃO QUISER JOGAR (para assistir ou brincar), deve-se perguntar ao PRÓXIMO IRMÃO se ele quer jogar, e assim sucessivamente;
+  1. Caso a regra acima NÃO SEJA RESPEITADA, QUE NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
+  2. Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a jogar;
+
+- Observação 1: NÃO IMPORTA A HORA OU QUANTO TEMPO JOGOU, O X BOX SERÁ DESLIGADO ÀS 21:30, NEM UM MINUTO A MAIS. Caso essa regra NÃO SEJA RESPEITADA, QUE NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
