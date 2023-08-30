@@ -1,4 +1,4 @@
-# Regras da Família
+# Condutas Esperadas e Regras para Convivência Harmoniosa e Responsável na Família
 Repositório para explicitar condutas esperadas e as regras uma convivência harmoniosa e responsável na família.
 
 ## Dos Equipamentos e Eletrônicos da Família
