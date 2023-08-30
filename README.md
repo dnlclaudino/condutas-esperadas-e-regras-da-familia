@@ -1,11 +1,11 @@
 # Regras da Família
-Repositório para explicitar as regras e condutas esperadas para uma convivência harmoniosa e responsável na família.
+Repositório para explicitar condutas esperadas e as regras uma convivência harmoniosa e responsável na família.
 
-## Dos Equipamentos e Eletrônicos Disponíveis e das Regras de Uso
+## Dos Equipamentos e Eletrônicos da Família
 
 As regras e condutas esperadas aplicam-se:
-- Ao vídeo-game **XBOX One S**, a **duas TVs** (uma no quarto dos pais e uma no quarto de Pedro, Gabriel e Mateus.
-- Ao notebook e um celular de Daniel Alcides
+- Ao vídeo-game **XBOX One S**, a **duas TVs** (uma no quarto dos pais e uma no quarto de Pedro, Gabriel e Mateus;
+- Ao notebook e um celular de Daniel Alcides;
 - Ao notebook da mamãe que é utilizado exclusivamente para fazer as tarefas e trabalhos da escola.
 
 ## Das Condutas Esperadas
@@ -53,9 +53,23 @@ Fazer a terefa e/ou trabalho escolhar.
 
 ### Após Terminarem o Dever de Casa, Tarefa ou Trabalho
 
-SEMPRE na **ORDEM é do irmão MAIS NOVO para o MAIS VELHO**, o irmão deve escolher se vai jogar ou assistir
+- SEMPRE na **ORDEM é do irmão MAIS NOVO para o MAIS VELHO**, o irmão PODE escolher se vai jogar ou assistir.
+- De segunda a sexta feira, Pedro, Gabriel e Mateus NÃO PODEM DESCER para BRINCAR até MAMÃE chegar do trabalho.
 
-#### Se escolher JOGAR
+### Após usar o BANHEIRO
+
+1. Se APROXIMAR DO VASO para FAZER AS NECESSIDADES FISIOLÓGICAS;
+2. CAPRICHAR na PONTARIA;
+3. Após usar, **baixar a tampa do vaso**;
+5. Dar DESCARGA;
+6. Lavar as MÃOS
+
+### ANTES DE DORMIR
+
+1. Escovar os DENTES;
+2. Desligar a TV, XBOX, Notebook da Mamãe, caso estejam ligados;
+3. Dar BOA NOITE ao PAPAI e a MAMÃE;
+4. Se FOR LIGAR O AR-CONDICIONADO, **ANTES DE LIGÁ-LO**: verificar se as (1) JANELAS DO QUARTO e a (2) ABERTURA DE VENTILAÇÃO DA PORTA do quarto estão fechados;
 
 ## Regras
 
@@ -75,14 +89,16 @@ Do irmão MAIS NOVO para o MAIS VELHO:
   1. Caso a regra acima NÃO SEJA RESPEITADA, QUE NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
   2. Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a jogar;
 
-- Observação 1: NÃO IMPORTA A HORA OU QUANTO TEMPO JOGOU, O X BOX SERÁ DESLIGADO ÀS 21:30, NEM UM MINUTO A MAIS. Caso essa regra NÃO SEJA RESPEITADA, QUE NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
+- Observação 1:
+  - NÃO IMPORTA A HORA OU QUANTO TEMPO JOGOU, O X BOX SERÁ DESLIGADO ÀS 21:30;
+  - NÃO comece missão ou jogo perto de 21:30 pois o XBOX será desligado e NÃO SERÁ CONCEDIDO NEM UM MINUTO A MAIS;
+  - Caso essa regra NÃO SEJA RESPEITADA, QUEM NÃO A SEGUIR, NÃO IMPORTA O MOTIVO, FICARÁ O RESTO DA SEMANA SEM JOGAR !!! (ATÉ 23:59:59 do DOMINGO !!);
 
 ### Regras Assistir a TV do Quadro ( Pedro, Gabriel e Mateus )
 
 - Caso algum irmão deseje ir brincar ou assistir deverá esperar a sua vez natural do irmão MAIS NOVO para o MAIS VELHO para VOLTAR a jogar;
 - O tempo de cada IRMÃO ASSISTIR é de 1 hora com tolerância de 10 minutos;
 - O IRMÃO QUE NÃO SAIR NA HORA, NÃO IMPORTA O MOTIVO FICARÁ O RESTO DA SEMANA ASSISTIR !!! (ATÉ 23:59:59 do DOMINGO !!)
-
 
 ### Regras Assistir a TV do Quadro ( Papai e Mamãe )
 
@@ -98,6 +114,6 @@ Do irmão MAIS NOVO para o MAIS VELHO:
 
 ### Regras para Usar o Notebook da Mamãe
 
-- Pedro, Gabriel e Mateus SÓ PODEM USAR esse notebook para fazerem **dever de casa**, **tarefa** ou **trabalho** escolar;
+- Pedro, Gabriel e Mateus SÓ PODEM USAR esse notebook para fazerem **dever de casa**, **tarefa** ou **trabalho escolar**;
 
 
